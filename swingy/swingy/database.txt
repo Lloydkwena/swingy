@@ -1,0 +1,5 @@
+Daddy,Superman,Hope,1,1000,LayzerEyes,Sun
+Lloyd,Superman,Hope,1,1000,LayzerEyes,Sun
+King,Thor,God,1,1000,Hammer,Lightning
+super,Thor,God,1,1000,Hammer,Lightning
+name,Superman,Hope,1,1000,LayzerEyes,Sun
